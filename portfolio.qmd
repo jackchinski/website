@@ -2,6 +2,8 @@
 title: "Portfolio"
 ---
 
+
+
 I have done some projects some of these include: 
 
 - [Analysis of Toronto Collisions](https://github.com/jackchinski/analysis-of-torontos-vehicle-collisions)
